@@ -1,0 +1,13 @@
+{
+    "name": "intro-10-02-2022",
+    "version": "0.0.1",
+    "description": "nosso primeiro pacote node.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Renato",
+    "licence": "ISC",
+    "dependencies": {
+        "ascii-art": "^2.8.5"
+    }
+}
